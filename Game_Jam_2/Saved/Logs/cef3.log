@@ -1,0 +1,12 @@
+[24800:22124:0216/075854.501:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24800:35812:0216/075854.527:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[24800:22124:0216/075854.536:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8964:20664:0216/075858.256:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-CE083DAA0A413E7F93D96526C1FCC3D8 will be ignored
+[24800:10172:0216/075859.301:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[24800:22124:0216/075859.605:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24800:22124:0216/075859.606:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24800:22124:0216/075859.606:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24800:22124:0216/075859.606:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[24800:10172:0216/075859.610:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[33676:7544:0216/075903.509:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[24800:22124:0216/075903.514:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
