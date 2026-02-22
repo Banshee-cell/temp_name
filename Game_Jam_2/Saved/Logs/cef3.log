@@ -1,12 +1,20 @@
-[17656:14280:0221/135823.687:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17656:34224:0221/135823.713:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[17656:14280:0221/135823.721:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20012:16680:0221/135827.024:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-464DE5F03CF56A8089277EA92A81A337 will be ignored
-[17656:28044:0221/135830.773:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[17656:28044:0221/135834.164:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[10096:10100:0221/140123.639:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-9228E47F42483C103CBDE2B68CD97952 will be ignored
-[17656:14280:0221/140303.763:ERROR:device_event_log_impl.cc(196)] [14:03:03.760] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[17656:14280:0221/140322.413:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
-[17656:14280:0221/140322.413:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
-[17656:28044:0221/145458.785:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[17656:14280:0221/150322.117:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28552:8216:0221/155322.833:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28552:8100:0221/155322.858:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[28552:8216:0221/155322.866:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21516:32220:0221/155326.302:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0911E8989B7BA0DF54331DE7A277E37 will be ignored
+[28552:14232:0221/155330.731:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:8216:0221/155637.889:ERROR:device_event_log_impl.cc(196)] [15:56:37.753] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:8216:0221/155706.448:ERROR:device_event_log_impl.cc(196)] [15:57:06.422] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:14232:0221/160718.238:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:14232:0221/161245.325:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:14232:0221/161245.340:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:14232:0221/161441.874:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:14232:0221/161441.887:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:8216:0221/161442.393:ERROR:device_event_log_impl.cc(196)] [16:14:42.302] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:8216:0221/161508.648:ERROR:device_event_log_impl.cc(196)] [16:15:08.421] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:8216:0221/172158.797:ERROR:device_event_log_impl.cc(196)] [17:21:58.788] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:14232:0221/173400.457:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:14232:0221/173400.468:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28552:8216:0221/173922.549:ERROR:device_event_log_impl.cc(196)] [17:39:22.280] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:8216:0221/175635.116:ERROR:device_event_log_impl.cc(196)] [17:56:34.987] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[28552:8216:0221/194056.576:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
