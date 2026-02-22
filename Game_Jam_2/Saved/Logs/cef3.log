@@ -1,8 +1,16 @@
-[15432:3516:0221/194919.259:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15432:35500:0221/194919.416:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15432:3516:0221/194919.510:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[42384:23832:0221/194922.999:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6EB0CA75E58C94CB42D671E6E3CFDB39 will be ignored
-[15432:25012:0221/194925.850:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15432:25012:0221/194928.852:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[15432:3516:0221/195005.898:ERROR:device_event_log_impl.cc(196)] [19:50:05.898] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[15432:3516:0221/200101.901:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[38112:26928:0221/215529.776:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[38112:19200:0221/215529.814:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[38112:26928:0221/215529.825:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[32940:44584:0221/215533.797:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-8D43F76705F3CB22AE648E8371447AD2 will be ignored
+[38112:40652:0221/215536.843:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:40652:0221/215536.847:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:40652:0221/215539.942:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:40652:0221/221330.069:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:40652:0221/223034.368:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:40652:0221/224332.759:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:43308:0221/230452.319:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9264:21304:0221/230452.340:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[38112:43308:0221/230457.321:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[9264:23972:0221/230457.351:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[38112:40652:0221/231335.420:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38112:26928:0221/232927.178:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
