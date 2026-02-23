@@ -1,7 +1,8 @@
-[28220:7848:0223/172015.257:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28220:47532:0223/172015.299:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[28220:7848:0223/172015.444:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14004:52296:0223/172018.129:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-49F3C6198332B21DB46C092B88E02A48 will be ignored
-[28220:52544:0223/172021.939:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[28220:52544:0223/172023.771:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[28220:7848:0223/172620.450:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[38820:24964:0223/174403.190:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[38820:12756:0223/174403.227:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[38820:24964:0223/174403.234:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[42276:37064:0223/174405.840:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5B39457C939E0A95DB781F95F103E32B will be ignored
+[38820:19092:0223/174409.656:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38820:19092:0223/174411.433:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[38820:24964:0223/175125.108:ERROR:device_event_log_impl.cc(196)] [17:50:00.606] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[38820:24964:0223/175455.540:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
