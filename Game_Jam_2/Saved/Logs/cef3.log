@@ -1,8 +1,10 @@
-[38820:24964:0223/174403.190:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[38820:12756:0223/174403.227:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[38820:24964:0223/174403.234:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[42276:37064:0223/174405.840:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-5B39457C939E0A95DB781F95F103E32B will be ignored
-[38820:19092:0223/174409.656:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[38820:19092:0223/174411.433:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[38820:24964:0223/175125.108:ERROR:device_event_log_impl.cc(196)] [17:50:00.606] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[38820:24964:0223/175455.540:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16108:26552:0223/182019.063:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16108:7016:0223/182019.102:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16108:26552:0223/182019.109:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[54060:20520:0223/182021.450:ERROR:backend_impl.cc(989)] Critical error found -8
+[54060:20520:0223/182021.450:ERROR:entry_impl.cc(1029)] No file for b2020000
+[54060:20520:0223/182021.450:WARNING:storage_block-inl.h(138)] Failed data load.
+[56816:27588:0223/182021.780:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4F4BFF62D0F0A02C6AF97CDDF0898006 will be ignored
+[16108:33828:0223/182025.558:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16108:33828:0223/182028.694:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[16108:26552:0223/190437.306:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
